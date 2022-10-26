@@ -18,20 +18,21 @@ My research interest is about the 3D user interface design of mixed reality, com
 
 ## Ongoing Research
 #### Nurse Training in Virtual Reality
-<img style="width: 120px; height: 90px; float: left; margin-right: 15px" src="/assets/img/nurse-training.png">
-This project aims to facilitate nurse students to improve technical knowledge and proficiency with objective of procedural skills training. The simulated scenario for this project is the chest pain. Experiments to be performed to evaluate the effectiveness and learning outcomes of using VR in chest pain training.
+<img style="width: 120px; height: 90px; float: left; margin-right: 15px; padding: 1px" src="/assets/img/nurse-training.png">
+
+This research aims to facilitate nurse students to improve technical knowledge and proficiency with objective of procedural skills training. The simulated scenarios for this project include chest pain treatment and oxygen therapy. Experiments are being performed to evaluate the feasibility, user acceptance and the effectiveness of using this customized simulation.
 [[Demo1](https://youtu.be/5sjm_6K02Og){:target="_blank" rel="noopener"}, [Demo2](https://mediaspace.umn.edu/media/t/1_afla2x6y){:target="_blank" rel="noopener"}]
 
 #### Understanding Communication Technology and Social Behavior
-<img style="width: 120px; height: 90px; float: left; margin-right: 15px" src="/assets/img/uctsb.png">
-This project is built to compare and contrast the effects overtime of video conferencing versus VR in emergent supporting group processes and interactions that affect team performance, team processes and individual well-being and social need fulfillment. Sponsored by NSF.
+<img style="width: 120px; height: 90px; float: left; margin-right: 15px; padding: 1px" src="/assets/img/uctsb.png">
+This research is to compare and contrast the effects overtime of video conferencing versus VR in emergent supporting group processes and interactions that affect team performance, team processes and individual well-being and social need fulfillment. Sponsored by NSF.
 [[Demo](https://youtu.be/isE2rKAP1y0){:target="_blank" rel="noopener"}]
 
 <hr style="border:0.3px solid #303030; width:100%">
 
 ## Publications
 #### COVID-Vision: Mind Social Distances
-<img style="width: 120px; height: 90px; float: left; margin-right: 15px" src="/assets/img/3dui-teaser.png">
+<img style="width: 120px; height: 90px; float: left; margin-right: 15px; padding: 1px" src="/assets/img/3dui-teaser.png">
 D. Zhang et al., “COVID-Vision: A Virtual Reality Experience to Encourage Mindfulness of Social Distancing in Public Spaces,” 2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 2021, pp. 697-698, doi: 10.1109/VRW52623.2021.00231.
 [[Pdf](https://doi.org/10.1109/VRW52623.2021.00231){:target="_blank" rel="noopener"}, [Video](https://youtu.be/_TpdhANjkBo){:target="_blank" rel="noopener"}]
 
