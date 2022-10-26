@@ -221,77 +221,77 @@ hr {
 //   flex-basis: content;
 // }
 
-// @media print {
+@media print {
 
-//   // .sidebar {
-//   //   padding: initial;
-//   //   display: initial;
-//   //   height: initial;
-//   //   overflow: initial;    
-//   // }
+  .sidebar {
+    padding: initial;
+    display: initial;
+    height: initial;
+    overflow: initial;    
+  }
 
-//   // footer {
-//   //   display: initial;    
-//   // }
+  // footer {
+  //   display: initial;    
+  // }
 
-//   // .sidebar-footer {
-//   //   display: none;
-//   // }
+  // .sidebar-footer {
+  //   display: none;
+  // }
 
-//   body, section{
-//     word-wrap:break-word;
-//   }
+  body, section{
+    word-wrap:break-word;
+  }
 
-//   // div.wrapper {
-//   //   width:auto;
-//   //   margin:0;
-//   // }
+  div.wrapper {
+    width:auto;
+    margin:0;
+  }
 
-//   // .sidebar {
-//   //   float:none;
-//   //   position:static;
-//   //   width:auto;
-//   // }
+  .sidebar {
+    float:none;
+    position:static;
+    width:auto;
+  }
 
-//   // .sidebar, section {
-//   //   float:none;
-//   //   position:static;
-//   //   width:auto;
-//   // }
+  .sidebar, section {
+    float:none;
+    position:static;
+    width:auto;
+  }
 
-//   // header {
-//   //   // padding-right:320px;
-//   //   padding:0;
-//   // }
+  header {
+    // padding-right:320px;
+    padding:0;
+  }
 
-//   // section {
-//   //   border:1px solid var(--clr-splitter-blockquote-and-section);
-//   //   border-width:1px 0;
-//   //   padding:20px 0;
-//   //   margin:0 0 20px;
+  section {
+    border:1px solid var(--clr-splitter-blockquote-and-section);
+    border-width:1px 0;
+    padding:20px 0;
+    margin:0 0 20px;
     
-//   // }
+  }
 
-//   header a small {
-//     display:inline;
-//   }
+  header a small {
+    display:inline;
+  }
 
-//   header ul {
-//     position:absolute;
-//     right:50px;
-//     top:52px;
-//   }
+  header ul {
+    position:absolute;
+    right:50px;
+    top:52px;
+  }
   
-//   // .link-wrapper {
-//   //   display: none !important;
-//   // }
+  // .link-wrapper {
+  //   display: none !important;
+  // }
 
-//   // .img-circle {
-//   //   display: none !important;
-//   // }
+  // .img-circle {
+  //   display: none !important;
+  // }
 
   
-// }
+}
 
 // @media print, screen and (max-width: 720px) {
 //   body {
