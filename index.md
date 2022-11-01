@@ -6,7 +6,7 @@ title: Danhua Zhang - Homepage
 
 <!-- [Link to another page](./another-page.html). -->
 
-My research interest is about the 3D user interface design of mixed reality, computer graphics and animation. My current research focuses on problems in interdisciplinary fields. Specifically, within the virtual reality (VR) and human-computer interaction (HCI) areas, some user interfaces are designed to solve some social good problems, such as healthcare, education, training and learning, social behavior and motion sickenss.<br/>Outside the research scope, I'm also interested in anime, film, the design and creation of art, game design, sketching, digital painting and photographing.
+My research interest is about the 3D user interface design of mixed reality, computer graphics and animation. My current research focuses on problems in interdisciplinary fields. Specifically, within the virtual reality (VR) and human-computer interaction (HCI) areas, some user interfaces are designed to solve some social good problems, such as healthcare, education, training and learning, social behavior and motion sickness.<br/>Outside the research scope, I'm also interested in anime, film, the design and creation of art, game design, sketching, digital painting and photographing.
 
 <!-- [sketching, digital painting](./sketching-and-digital-painting.html) and photographing. -->
 
