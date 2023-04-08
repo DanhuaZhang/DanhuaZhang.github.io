@@ -17,7 +17,7 @@ My research interest is about the 3D user interface design of mixed reality, com
 <hr style="border:0.3px solid #303030; width:100%">
 
 ## Ongoing Research
-#### Cognition of Memorization in VR Authentication
+#### VR Authentication: Cognitive Methods of Memorization
 <img style="width: 120px; height: 90px; float: left; margin-right: 15px; padding: 1px" src="/assets/img/dba-teaser.png">
 
 This research aims to evaluate the efficiency, memorability and security of three different VR authentication methods and explore the cognitive methods of memorizing passwords. Participants will be asked to memorize three types of passwords consisting of symbols, visual contexts and a combination of the two methods respectively. A within-subject design is onling.
@@ -46,7 +46,7 @@ Yuxuan Huang, **Danhua Zhang**, and Evan Suma Rosenberg, “DBA: Direction-Based
 #### COVID-Vision: Mind Social Distances
 <img style="width: 120px; height: 90px; float: left; margin-right: 15px; padding: 1px" src="/assets/img/covid-vision-teaser.png">
 **Danhua Zhang**, Malik Khadar, Brett W Schumacher, Madhava Raveendra, Sam Adeniyi, Fei Wu, Sahar Aseeri, and Evan Suma Rosenberg, “COVID-Vision: A Virtual Reality Experience to Encourage Mindfulness of Social Distancing in Public Spaces”, 2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 2021, pp. 697-698, doi: 10.1109/VRW52623.2021.00231.
-[[Pdf](https://doi.org/10.1109/VRW52623.2021.00231){:target="_blank" rel="noopener"}, [Teaser Video](https://youtu.be/5BB05YIG7uY?t=530), [Full Video](https://youtu.be/_TpdhANjkBo){:target="_blank" rel="noopener"}]
+[[Paper](https://doi.org/10.1109/VRW52623.2021.00231){:target="_blank" rel="noopener"}, [Teaser Video](https://youtu.be/5BB05YIG7uY?t=530), [Full Video](https://youtu.be/_TpdhANjkBo){:target="_blank" rel="noopener"}]
 
 <hr style="border:0.3px solid #303030; width:100%">
 
