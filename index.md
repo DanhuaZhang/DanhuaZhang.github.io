@@ -20,7 +20,7 @@ My research interest is about the 3D user interface design of mixed reality, com
 #### VR Authentication: Cognitive Methods of Memorization
 <img style="width: 120px; height: 90px; float: left; margin-right: 15px; padding: 1px" src="/assets/img/dba-teaser.png">
 
-This research aims to evaluate the efficiency, memorability and security of three different VR authentication methods and explore the cognitive methods of memorizing passwords. Participants will be asked to memorize three types of passwords consisting of symbols, visual contexts and a combination of the two methods respectively. A within-subject design is onling.
+This research aims to evaluate the efficiency, memorability and security of three different VR authentication methods and explore the cognitive methods of memorizing passwords. <!--Participants will be asked to memorize three types of passwords consisting of symbols, visual contexts and a combination of the two methods respectively.--> A within-subject design is onling.
 [Demo(pending)]
 
 #### Nurse Training in Virtual Reality
@@ -41,7 +41,7 @@ This research is to compare and contrast the effects overtime of video conferenc
 <img style="width: 120px; height: 90px; float: left; margin-right: 15px; padding: 1px" src="/assets/img/dba-teaser.png">
 Yuxuan Huang, **Danhua Zhang**, and Evan Suma Rosenberg, “DBA: Direction-Based Authentication in Virtual Reality”, 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 2023, doi: 10.1109/VRW58643.2023.00319.
 <!--  -->
-[[Paper](https://doi.org/10.1109/VRW58643.2023.00319){:target="_blank" rel="noopener"}, [Teaser Video](https://youtu.be/4kmHfNXeJHM){:target="_blank" rel="noopener"}, [Full Video](https://mediaspace.umn.edu/media/t/1_tza87ueo){:target="_blank" rel="noopener"}]
+[[Paper](https://doi.org/10.1109/VRW58643.2023.00319){:target="_blank" rel="noopener"}<!-- , [Teaser Video](https://youtu.be/4kmHfNXeJHM){:target="_blank" rel="noopener"}, [Full Video](https://mediaspace.umn.edu/media/t/1_tza87ueo){:target="_blank" rel="noopener"}-->]
 
 #### COVID-Vision: Mind Social Distances
 <img style="width: 120px; height: 90px; float: left; margin-right: 15px; padding: 1px" src="/assets/img/covid-vision-teaser.png">
