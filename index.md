@@ -27,7 +27,8 @@ This research aims to evaluate the efficiency, memorability and security of thre
 <img style="width: 120px; height: 90px; float: left; margin-right: 15px; padding: 1px" src="/assets/img/nurse-training.png">
 
 This research aims to facilitate nurse students to improve technical knowledge and proficiency with objective of procedural skills training. The simulated scenarios for this project include chest pain treatment and oxygen therapy. Experiments are being performed to evaluate the feasibility, user acceptance and the effectiveness of using this customized simulation.
-[[Demo1](https://youtu.be/5sjm_6K02Og){:target="_blank" rel="noopener"}, [Demo2](https://mediaspace.umn.edu/media/t/1_afla2x6y){:target="_blank" rel="noopener"}]
+[[Demo1], [Demo2]]
+<!-- [[Demo1](https://youtu.be/5sjm_6K02Og){:target="_blank" rel="noopener"}, [Demo2](https://mediaspace.umn.edu/media/t/1_afla2x6y){:target="_blank" rel="noopener"}] -->
 
 #### Understanding Communication Technology and Social Behavior
 <img style="width: 120px; height: 90px; float: left; margin-right: 15px; padding: 1px" src="/assets/img/uctsb.png">
