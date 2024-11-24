@@ -6,7 +6,10 @@ title: Danhua Zhang - Homepage
 
 <!-- [Link to another page](./another-page.html). -->
 
-My research interest is about the 3D user interface design of mixed reality, computer graphics and animation. My current research focuses on problems in interdisciplinary fields. Specifically, within the virtual reality (VR) and human-computer interaction (HCI) areas, some user interfaces are designed to solve some social good problems, such as healthcare, education, training and learning, social behavior and motion sickness.<br/>Outside the research scope, I'm also interested in anime, film, the design and creation of art, game design, sketching, digital painting and photographing.
+<!-- My research interest is about the 3D user interface design of mixed reality and my current research focuses on problems in interdisciplinary fields. Specifically, within the virtual reality (VR) and human-computer interaction (HCI) areas, some user interfaces are designed to solve some social good problems, such as virtual human, healthcare, education, training and learning, social behavior and motion sickness.<br/>Outside the research scope, I'm also interested in anime, film, the design and creation of art, sketching, digital painting and photographing. -->
+
+My research focuses on 3D user interface design in mixed reality, addressing interdisciplinary challenges. Specifically, within the fields of virtual reality (VR) and human-computer interaction (HCI), I design user interfaces to tackle social good issues, such as virtual humans, healthcare, education, training and learning, social behavior, and motion sickness.
+Beyond my research, I have a strong interest in anime, film, art design and creation, sketching, digital painting, and photography.
 
 <!-- [sketching, digital painting](./sketching-and-digital-painting.html) and photographing. -->
 
@@ -17,28 +20,34 @@ My research interest is about the 3D user interface design of mixed reality, com
 <hr style="border:0.3px solid #303030; width:100%">
 
 ## Ongoing Research
-#### VR Authentication: Cognitive Methods of Memorization
-<img style="width: 120px; height: 90px; float: left; margin-right: 15px; padding: 1px" src="/assets/img/dba-teaser.png">
+#### Knee Surgery in VR
+<img style="width: 120px; height: 90px; float: left; margin-right: 15px; padding: 1px" src="/assets/img/knee-survery-demo.png">
 
-This research aims to evaluate the efficiency, memorability and security of three different VR authentication methods and explore the cognitive methods of memorizing passwords. <!--Participants will be asked to memorize three types of passwords consisting of symbols, visual contexts and a combination of the two methods respectively.--> A within-subject design is onling.
-[Demo(pending)]
+This research aims to develop a virtual reality (VR) training system for knee surgery simulation. In collaboration with knee surgeons, we integrated an automatic pause module at each step, presenting relevant medical knowledge through videos while highlighting the appropriate instruments for interaction, enhanced by haptic feedback and visual cues.
+[[Video](https://drive.google.com/file/d/1Z4bCsyj6WE0vFN9kVdd5FA40dCifYgKd/view?usp=drive_link){:target="_blank" rel="noopener"}]
+
 
 #### Nurse Training in Virtual Reality
 <img style="width: 120px; height: 90px; float: left; margin-right: 15px; padding: 1px" src="/assets/img/nurse-training.png">
 
-This research aims to facilitate nurse students to improve technical knowledge and proficiency with objective of procedural skills training. The simulated scenarios for this project include chest pain treatment and oxygen therapy. Experiments are being performed to evaluate the feasibility, user acceptance and the effectiveness of using this customized simulation.
-[[Demo1], [Demo2]]
-<!-- [[Demo1](https://youtu.be/5sjm_6K02Og){:target="_blank" rel="noopener"}, [Demo2](https://mediaspace.umn.edu/media/t/1_afla2x6y){:target="_blank" rel="noopener"}] -->
+This research aims to facilitate nurse students to improve technical knowledge and proficiency with objective of procedural skills training. The simulated scenarios for this project include chest pain treatment and oxygen therapy. Two user studies have been performed to evaluate the feasibility, user acceptance and effectiveness of using this customized simulation to evaluate nurse competency.
+[[Scenario1](https://youtu.be/5sjm_6K02Og){:target="_blank" rel="noopener"}, [Scenario2](https://mediaspace.umn.edu/media/t/1_afla2x6y){:target="_blank" rel="noopener"}]
 
 #### Understanding Communication Technology and Social Behavior
 <img style="width: 120px; height: 90px; float: left; margin-right: 15px; padding: 1px" src="/assets/img/uctsb.png">
 This research is to compare and contrast the effects overtime of video conferencing versus VR in emergent supporting group processes and interactions that affect team performance, team processes and individual well-being and social need fulfillment. Sponsored by NSF.
-[[Demo](https://youtu.be/isE2rKAP1y0){:target="_blank" rel="noopener"}]
+[[Video](https://youtu.be/isE2rKAP1y0){:target="_blank" rel="noopener"}]
 
 <hr style="border:0.3px solid #303030; width:100%">
 
-## Publications
-#### VR Authentication: Direction-Based Authentication
+## Publications 
+#### Direction-Based Authentication (DBA): Cognitive Methods of Memorization
+<img style="width: 120px; height: 90px; float: left; margin-right: 15px; padding: 1px" src="/assets/img/dba-ismar.png">
+
+This research aims to evaluate the efficiency, memorability and security of three different VR authentication methods and explore the cognitive methods of memorizing passwords. Specifically, we proposed a method called Direction-Based Authentication (DBA) that combines the context and symbol information together. 
+[Paper (pending IEEE release), [Video](https://drive.google.com/file/d/1Z4bCsyj6WE0vFN9kVdd5FA40dCifYgKd/view?usp=sharing){:target="_blank" rel="noopener"}]
+
+#### VR Authentication
 <img style="width: 120px; height: 90px; float: left; margin-right: 15px; padding: 1px" src="/assets/img/dba-teaser.png">
 Yuxuan Huang, **Danhua Zhang**, and Evan Suma Rosenberg, “DBA: Direction-Based Authentication in Virtual Reality”, 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 2023, doi: 10.1109/VRW58643.2023.00319.
 <!--  -->
@@ -52,7 +61,14 @@ Yuxuan Huang, **Danhua Zhang**, and Evan Suma Rosenberg, “DBA: Direction-Based
 <hr style="border:0.3px solid #303030; width:100%">
 
 ## Professional Services
-Student volunteer in IEEE VR 2020
+Peer Reviewer:
+* IEEE VR, IEEE ISMAR<br>
+* ACM CHI, ACM VRST, ACM SUI, ACM UbiComp/ISWC
+
+Student volunteer:
+* IEEE ISMAR 2024<br>
+* IEEE VR 2024<br>
+* IEEE VR 2020<br>
 
 <!-- ## Header 2
 
