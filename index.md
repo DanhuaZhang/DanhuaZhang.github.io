@@ -45,18 +45,20 @@ This research is to compare and contrast the effects overtime of video conferenc
 <img style="width: 120px; height: 90px; float: left; margin-right: 15px; padding: 1px" src="/assets/img/dba-ismar.png">
 
 This research aims to evaluate the efficiency, memorability and security of three different VR authentication methods and explore the cognitive methods of memorizing passwords. Specifically, we proposed a method called Direction-Based Authentication (DBA) that combines the context and symbol information together. 
-[Paper (pending IEEE release), [Video](https://drive.google.com/file/d/1Z4bCsyj6WE0vFN9kVdd5FA40dCifYgKd/view?usp=sharing){:target="_blank" rel="noopener"}]
+[[Paper](https://ieeexplore.ieee.org/document/10765470){:target="_blank" rel="noopener"}, [Video](https://drive.google.com/file/d/1Z4bCsyj6WE0vFN9kVdd5FA40dCifYgKd/view?usp=sharing){:target="_blank" rel="noopener"}]
 
 #### DBA: Direction-Based Authentication in Virtual Reality
 <img style="width: 120px; height: 90px; float: left; margin-right: 15px; padding: 1px" src="/assets/img/dba-teaser.png">
 Y. Huang, **D. Zhang** and E. S. Rosenberg, "DBA: Direction-Based Authentication in Virtual Reality," 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), Shanghai, China, 2023, pp. 953-954, doi: 10.1109/VRW58643.2023.00319.
-<!--  -->
-[[Paper](https://doi.org/10.1109/VRW58643.2023.00319){:target="_blank" rel="noopener"}<!-- , [Teaser Video](https://youtu.be/4kmHfNXeJHM){:target="_blank" rel="noopener"}, [Full Video](https://mediaspace.umn.edu/media/t/1_tza87ueo){:target="_blank" rel="noopener"}-->]
+<!-- [Teaser Video](https://youtu.be/4kmHfNXeJHM){:target="_blank" rel="noopener"}  -->
+[[Paper](https://doi.org/10.1109/VRW58643.2023.00319){:target="_blank" rel="noopener"}, [Video](https://mediaspace.umn.edu/media/t/1_tza87ueo){:target="_blank" rel="noopener"}]
 
 #### COVID-Vision: A Virtual Reality Experience to Encourage Mindfulness of Social Distancing in Public Spaces
 <img style="width: 120px; height: 90px; float: left; margin-right: 15px; padding: 1px" src="/assets/img/covid-vision-teaser.png">
 **D. Zhang** et al., "COVID-Vision: A Virtual Reality Experience to Encourage Mindfulness of Social Distancing in Public Spaces," 2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), Lisbon, Portugal, 2021, pp. 697-698, doi: 10.1109/VRW52623.2021.00231.
-[[Paper](https://doi.org/10.1109/VRW52623.2021.00231){:target="_blank" rel="noopener"}, [Teaser Video](https://youtu.be/5BB05YIG7uY?t=530), [Full Video](https://youtu.be/_TpdhANjkBo){:target="_blank" rel="noopener"}]
+<!-- [Teaser Video](https://youtu.be/5BB05YIG7uY?t=530) -->
+[[Paper](https://doi.org/10.1109/VRW52623.2021.00231){:target="_blank" rel="noopener"}, [Video](https://youtu.be/_TpdhANjkBo){:target="_blank" rel="noopener"}]
+
 
 <hr style="border:0.3px solid #303030; width:100%">
 
